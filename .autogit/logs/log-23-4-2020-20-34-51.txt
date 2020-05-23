@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sat May 23 2020 20:34:51 GMT+0900 (한국 표준시)
+------------------------------------------------------
+
+Modified files:
+* cat
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+* jerry
+
+
+Renamed files:
